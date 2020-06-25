@@ -1,3 +1,4 @@
+# in the KALI env, below:
 from scapy.all import *
 import os
 import sys
